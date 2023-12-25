@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,400;1,100&family=Roboto&display=swap');
+
+body {
+	font-family: 'Poppins', sans-serif;
+	/* font-family: 'Roboto', sans-serif; */
+}
+.bg-custom {
+	background-color: #595758;
+}
+
+.navbar .nav-item .nav-link{
+	font-size: 20px;
+}
+
+.navbar-custom .nav-item:hover .nav-link{
+		background-color: #DE3C4B;
+		color: black;
+		border-radius: 20px;
+}	
